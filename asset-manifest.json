@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/movil/static/css/main.ffdb2a39.chunk.css",
-    "main.js": "/movil/static/js/main.4a26210a.chunk.js",
-    "main.js.map": "/movil/static/js/main.4a26210a.chunk.js.map",
+    "main.css": "/movil/static/css/main.13b51a47.chunk.css",
+    "main.js": "/movil/static/js/main.bab80746.chunk.js",
+    "main.js.map": "/movil/static/js/main.bab80746.chunk.js.map",
     "runtime-main.js": "/movil/static/js/runtime-main.e090811f.js",
     "runtime-main.js.map": "/movil/static/js/runtime-main.e090811f.js.map",
     "static/css/2.0a9ec390.chunk.css": "/movil/static/css/2.0a9ec390.chunk.css",
@@ -14,14 +14,14 @@
     "service-worker.js": "/movil/service-worker.js",
     "service-worker.js.map": "/movil/service-worker.js.map",
     "static/css/2.0a9ec390.chunk.css.map": "/movil/static/css/2.0a9ec390.chunk.css.map",
-    "static/css/main.ffdb2a39.chunk.css.map": "/movil/static/css/main.ffdb2a39.chunk.css.map",
+    "static/css/main.13b51a47.chunk.css.map": "/movil/static/css/main.13b51a47.chunk.css.map",
     "static/js/2.53fdaee0.chunk.js.LICENSE.txt": "/movil/static/js/2.53fdaee0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.e090811f.js",
     "static/css/2.0a9ec390.chunk.css",
     "static/js/2.53fdaee0.chunk.js",
-    "static/css/main.ffdb2a39.chunk.css",
-    "static/js/main.4a26210a.chunk.js"
+    "static/css/main.13b51a47.chunk.css",
+    "static/js/main.bab80746.chunk.js"
   ]
 }
